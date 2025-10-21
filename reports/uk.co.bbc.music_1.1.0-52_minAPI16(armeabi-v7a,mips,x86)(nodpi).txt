@@ -1,0 +1,12 @@
+VirusTotal Analiz Raporu - reports\uk.co.bbc.music_1.1.0-52_minAPI16(armeabi-v7a,mips,x86)(nodpi)
+Malicious: 0
+Suspicious: 0
+Undetected: 66
+Harmless: 0
+Timeout: 1
+Confirmed-timeout: 0
+Failure: 1
+Type-unsupported: 8
+
+Zarar veya Supheli Sonuclar:
+Tum motorlar temiz sonuc verdi.

@@ -1,0 +1,12 @@
+VirusTotal Analiz Raporu - reports\com.asus.weathertime_9.1.0.43_230308-1590100215_minAPI29(nodpi)_apkmirror.com
+Malicious: 0
+Suspicious: 0
+Undetected: 66
+Harmless: 0
+Timeout: 0
+Confirmed-timeout: 0
+Failure: 1
+Type-unsupported: 9
+
+Zarar veya Supheli Sonuclar:
+Tum motorlar temiz sonuc verdi.

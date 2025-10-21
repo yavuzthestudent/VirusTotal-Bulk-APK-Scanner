@@ -1,0 +1,12 @@
+VirusTotal Analiz Raporu - reports\com.microsoft.amp.apps.foodanddrink_1.2.0-1554_minAPI16(nodpi)_apkmirror.com
+Malicious: 0
+Suspicious: 0
+Undetected: 68
+Harmless: 0
+Timeout: 0
+Confirmed-timeout: 0
+Failure: 0
+Type-unsupported: 8
+
+Zarar veya Supheli Sonuclar:
+Tum motorlar temiz sonuc verdi.

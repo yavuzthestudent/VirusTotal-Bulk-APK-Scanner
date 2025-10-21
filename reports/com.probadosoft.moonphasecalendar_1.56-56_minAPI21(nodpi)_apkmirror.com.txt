@@ -1,0 +1,12 @@
+VirusTotal Analiz Raporu - reports\com.probadosoft.moonphasecalendar_1.56-56_minAPI21(nodpi)_apkmirror.com
+Malicious: 0
+Suspicious: 0
+Undetected: 64
+Harmless: 0
+Timeout: 2
+Confirmed-timeout: 0
+Failure: 1
+Type-unsupported: 9
+
+Zarar veya Supheli Sonuclar:
+Tum motorlar temiz sonuc verdi.

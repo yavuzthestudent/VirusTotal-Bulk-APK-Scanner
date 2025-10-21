@@ -1,0 +1,12 @@
+VirusTotal Analiz Raporu - reports\net.ambientweather.dashboard_4.3.1-40301_minAPI22(nodpi)_apkmirror.com
+Malicious: 0
+Suspicious: 0
+Undetected: 59
+Harmless: 0
+Timeout: 8
+Confirmed-timeout: 0
+Failure: 0
+Type-unsupported: 9
+
+Zarar veya Supheli Sonuclar:
+Tum motorlar temiz sonuc verdi.

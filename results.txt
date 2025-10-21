@@ -1,0 +1,50 @@
+VirusTotal APK Tarama Sonuclari
+Dosya Adi: com.asus.weathertime_9.1.0.43_230308-1590100215_minAPI29(nodpi)_apkmirror.com.apk
+Tespit Orani: 0 / 76
+  Zararsiz (Harmless): 0
+  Tespit Edilemedi (Undetected): 66
+  Supheli (Suspicious): 0
+  Zararli (Malicious): 0
+--------------------------------------------------
+Dosya Adi: com.gorjan.airquality_7.7.56-336_minAPI18(armeabi-v7a)(nodpi)_apkmirror.com.apk
+Tespit Orani: 0 / 76
+  Zararsiz (Harmless): 0
+  Tespit Edilemedi (Undetected): 66
+  Supheli (Suspicious): 0
+  Zararli (Malicious): 0
+--------------------------------------------------
+Dosya Adi: com.microsoft.amp.apps.foodanddrink_1.2.0-1554_minAPI16(nodpi)_apkmirror.com.apk
+Tespit Orani: 0 / 76
+  Zararsiz (Harmless): 0
+  Tespit Edilemedi (Undetected): 68
+  Supheli (Suspicious): 0
+  Zararli (Malicious): 0
+--------------------------------------------------
+Dosya Adi: com.mytowntonight.aviationweather_3.7.3-166_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk
+Tespit Orani: 0 / 76
+  Zararsiz (Harmless): 0
+  Tespit Edilemedi (Undetected): 68
+  Supheli (Suspicious): 0
+  Zararli (Malicious): 0
+--------------------------------------------------
+Dosya Adi: com.probadosoft.moonphasecalendar_1.56-56_minAPI21(nodpi)_apkmirror.com.apk
+Tespit Orani: 0 / 76
+  Zararsiz (Harmless): 0
+  Tespit Edilemedi (Undetected): 64
+  Supheli (Suspicious): 0
+  Zararli (Malicious): 0
+--------------------------------------------------
+Dosya Adi: net.ambientweather.dashboard_4.3.1-40301_minAPI22(nodpi)_apkmirror.com.apk
+Tespit Orani: 0 / 76
+  Zararsiz (Harmless): 0
+  Tespit Edilemedi (Undetected): 59
+  Supheli (Suspicious): 0
+  Zararli (Malicious): 0
+--------------------------------------------------
+Dosya Adi: uk.co.bbc.music_1.1.0-52_minAPI16(armeabi-v7a,mips,x86)(nodpi).apk
+Tespit Orani: 0 / 76
+  Zararsiz (Harmless): 0
+  Tespit Edilemedi (Undetected): 66
+  Supheli (Suspicious): 0
+  Zararli (Malicious): 0
+--------------------------------------------------

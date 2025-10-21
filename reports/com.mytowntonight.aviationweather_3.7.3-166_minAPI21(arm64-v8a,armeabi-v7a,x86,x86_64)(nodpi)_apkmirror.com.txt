@@ -1,0 +1,12 @@
+VirusTotal Analiz Raporu - reports\com.mytowntonight.aviationweather_3.7.3-166_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com
+Malicious: 0
+Suspicious: 0
+Undetected: 68
+Harmless: 0
+Timeout: 0
+Confirmed-timeout: 0
+Failure: 0
+Type-unsupported: 8
+
+Zarar veya Supheli Sonuclar:
+Tum motorlar temiz sonuc verdi.

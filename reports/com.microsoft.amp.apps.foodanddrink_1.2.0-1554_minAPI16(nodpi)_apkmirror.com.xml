@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<VirusTotalReport>
+   <Stats>
+      <malicious>0</malicious>
+      <suspicious>0</suspicious>
+      <undetected>68</undetected>
+      <harmless>0</harmless>
+      <timeout>0</timeout>
+      <confirmed-timeout>0</confirmed-timeout>
+      <failure>0</failure>
+      <type-unsupported>8</type-unsupported>
+   </Stats>
+   <Detections/>
+</VirusTotalReport>

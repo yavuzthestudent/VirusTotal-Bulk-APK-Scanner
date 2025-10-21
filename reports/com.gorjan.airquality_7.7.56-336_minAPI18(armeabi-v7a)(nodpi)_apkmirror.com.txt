@@ -1,0 +1,12 @@
+VirusTotal Analiz Raporu - reports\com.gorjan.airquality_7.7.56-336_minAPI18(armeabi-v7a)(nodpi)_apkmirror.com
+Malicious: 0
+Suspicious: 0
+Undetected: 66
+Harmless: 0
+Timeout: 0
+Confirmed-timeout: 0
+Failure: 2
+Type-unsupported: 8
+
+Zarar veya Supheli Sonuclar:
+Tum motorlar temiz sonuc verdi.
